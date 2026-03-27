@@ -1,14 +1,14 @@
-# Keras-Tuner-Optimization
+# Hyperparameter Tuning With Keras Tuner
 
-A practical guide and implementation of hyperparameter tuning using the Keras Tuner library. This project demonstrates how to automate the search for the best model architecture and hyperparameters for deep learning tasks.
+Automated hyperparameter optimization using Keras Tuner.
 
-## ┬┐ Features
-- **Hyperparameter Search**: Implementation of Random Search, Hyperband, and Bayesian Optimization.
-- **Custom Tuners**: Examples of defining custom search spaces for complex models.
-- **Visualization**: Tools for analyzing tuner results and model performance.
+## Features
+- Course notes and highlights
+- Programming assignment solutions
+- Conceptual frameworks
 
-## ┬┐ Project Structure
-- `notebooks/`: Jupyter notebooks with tuning experiments.
+## License
+MIT License — see [LICENSE](LICENSE)
 
 ---
-*Created by DinhLucent - 2022 (Updated 2026)*
+Built by [DinhLucent](https://github.com/DinhLucent)
